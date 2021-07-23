@@ -1,0 +1,6 @@
+{
+    "app_name": "HelloWorldApp",
+    "group": "com.example",
+    "package_name": "com.example.helloworldapp",
+    "spring_boot_version": "2.5.3"
+}
